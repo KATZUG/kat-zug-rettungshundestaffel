@@ -15,4 +15,5 @@ summary: "Unsere nächste Veranstanltung: Tag der offenen Tür - Melker Pioniere
 
 ### Weitere geplante Veranstaltungen:
 
-+ 18. Juni .2022 Altenmarkt, Blaulichttag
++ 18. Juni 2022 Altenmarkt, Blaulichttag
++ 6. August 2022 Kottingbrunn, Ferienspiel
