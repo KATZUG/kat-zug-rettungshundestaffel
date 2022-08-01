@@ -1,13 +1,13 @@
 ---
-author = "Paul Legerer"
-date = 2022-07-30T22:00:00Z
-description = "Moltez wird getragen"
-gallery = []
-image = "/images/blog/img-20220731-wa0018.jpg"
-title = "Zum Glück bin ich nicht schwer!"
-categories: "Moltez wird Rettungshund!"
-
+author : Paul Legerer
+date : 2022-07-30T22:00:00Z
+description : "Moltez wird getragen"
+gallery : []
+image : "/images/blog/img-20220731-wa0018.jpg"
+title : Zum Glück bin ich nicht schwer!
+categories: Moltez wird Rettungshund!
 ---
+
 ## Ab in die Tragetasche!
 
 Das Training heute hatte wieder eine ganz besondere Herausforderung für uns: Nach der Mittagspause hat unser Kommandant Hundetragegurte hervorgezaubert, und die Hunde wurden getragen!
