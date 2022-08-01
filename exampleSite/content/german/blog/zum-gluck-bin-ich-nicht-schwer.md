@@ -2,7 +2,6 @@
 author : Paul Legerer
 date : 2022-07-30T22:00:00Z
 description : "Moltez wird getragen"
-gallery : []
 image : "/images/blog/img-20220731-wa0018.jpg"
 title : Zum Glück bin ich nicht schwer!
 categories: Moltez wird Rettungshund!
