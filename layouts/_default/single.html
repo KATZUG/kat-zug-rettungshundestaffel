@@ -16,7 +16,7 @@
         <!---
         <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image">
         -->
-        {{- with .Params.featured_image -}}
+        {{- with .Params.image -}}
         {{ $pos := resources.Get . }}
         {{ $pos := $pos.Fill "515x334" }}
       
