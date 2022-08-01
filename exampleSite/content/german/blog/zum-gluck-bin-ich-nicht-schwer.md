@@ -5,7 +5,7 @@ description = "Moltez wird getragen"
 gallery = []
 image = "/images/blog/img-20220731-wa0018.jpg"
 title = "Zum Glück bin ich nicht schwer!"
-categories: Moltez wird Rettungshund!
+categories: "Moltez wird Rettungshund!"
 
 ---
 ## Ab in die Tragetasche!
