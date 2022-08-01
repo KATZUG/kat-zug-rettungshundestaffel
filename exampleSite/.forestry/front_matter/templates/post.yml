@@ -27,3 +27,5 @@ fields:
   config: {}
   label: Gallery
   description: Mindestformat 1200x800px, Hoch- und Querformat zulässig
+pages:
+- exampleSite/content/german/blog/zum-gluck-bin-ich-nicht-schwer.md
