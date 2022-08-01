@@ -1,0 +1,20 @@
+---
+contact:
+  enable: true
+  title: Kontakt
+  subtitle: ' Österreichweiter Notruf 0676/79 51 645'
+  contact_list:
+  - icon: ti-location-pin
+    info: Kat.-Zug Rettungshundestaffel Baden
+  - icon: ti-mobile
+    info: 'Tel: +43 676 699 52 96'
+  - icon: ti-email
+    info: 'Email: h.Eszterwitsch@A1.net'
+  contact_form:
+    enable: false
+    form_action: "#"
+    name: votre nom
+    email: Votre email
+    subject: Matière
+    message: Message
+    submit: Soumettre

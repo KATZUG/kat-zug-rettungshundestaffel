@@ -1,0 +1,20 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  counter_item:
+    
+    # counter item loop
+    - title : "Trainingsstunden/Jahr"
+      icon : "ti-timer" # themify icon pack : https://themify.me/themify-icons
+      count : "2340"
+    # counter item loop
+    - title : "Hunde"
+      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count : "15"
+    
+    # counter item loop
+    - title : "Helfende Hände"
+      icon : "ti-heart" # themify icon pack : https://themify.me/themify-icons
+      count : "10"

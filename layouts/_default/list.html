@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInDown">
+          {{ if eq .Title "Blogs"}}
+            <h2>{{ with i18n "blog" }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+            {{ with i18n "blog" }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
+          {{ else }}
+            <h2>{{ with .Title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+							{{ with .Title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
+          {{ end }}
+            <div class="border-meghna"></div>
+          
+        </div>
+      </div>
+      {{ if in  "Interne Organisation|KATZUG Rettungshundestaffel - Ordner|Sonstige Infos" .Title}}
+
+      {{"<!-- /section title -->" | safeHTML}}
+      
+        {{ range .Pages.ByWeight }}
+          {{ .Render "mitgliederbereich" }}
+        {{ end }}
+      
+      {{ else if in "Categories|Internals" .Title }}
+        {{"<!-- /section title -->" | safeHTML}}
+        {{ $paginator := .Paginate .Data.Pages }}
+        {{ range $paginator.Pages }}
+          {{ .Render "categories-internals" }}
+        {{ end }}
+        <div class="col-12">
+          {{ template "_internal/pagination.html" . }}
+        </div>
+      {{ else }}
+        {{"<!-- /section title -->" | safeHTML}}
+        {{ $paginator := .Paginate .Data.Pages }}
+        {{ range $paginator.Pages.ByWeight }}
+          {{ .Render "article" }}
+        {{ end }}
+        <div class="col-12">
+          {{ template "_internal/pagination.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}

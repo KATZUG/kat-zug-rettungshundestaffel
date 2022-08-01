@@ -1,0 +1,29 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+  description: 'Ex: John Doe'
+- type: file
+  name: image
+  label: image
+  description: Post-Bild. Nur Querformat, mind. 516x334px. Das Bild wird skaliert
+    und beschnitten, falls es größer ist
+  default: "/images/blog/default.jpg"
+- type: text
+  name: description
+  label: description
+  description: meta description
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
+  description: Mindestformat 1200x800px, Hoch- und Querformat zulässig

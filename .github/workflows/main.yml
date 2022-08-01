@@ -1,0 +1,35 @@
+name: Deploy via FTP
+
+on:
+  push:
+    branches:
+    - master
+  schedule:
+    - cron:  '0 8 * * *' #every day at 8 am
+jobs:
+  Deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.91.2'
+        extended: true
+        
+    - name: Build site
+      run: cd exampleSite && hugo --gc --themesDir ../.. --minify
+
+    - name: FTP site
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server: ftp83.world4you.com
+        server-dir: ./hugo/
+        username: katzug-rettu
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./exampleSite/public/
+        git-ftp-args: --insecure --all

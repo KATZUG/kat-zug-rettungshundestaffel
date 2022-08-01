@@ -1,0 +1,22 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Wir finden auch Dich.
+  content : "Unsere Staffel ist eine Blaulichtorganisation mit Sitz in Baden bei Wien"
+  feature_item : 
+      # feature item loop
+    - title : Unsere Aufgabe
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Wir haben es uns zur Aufgabe gemacht, gemeinsam mit unseren vierbeinigen Kollegen, kostenlos, möglichst schnell und effizient Hilfe zu leisten, wenn es darum geht, vermisste Personen zu finden.
+      
+      # feature item loop
+    - title : Dein Beitrag
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Wir freuen uns immer über Interessenten und stehen gerne für weitere Informationen persönlich zu Verfügung.
+
+      
+
+
+

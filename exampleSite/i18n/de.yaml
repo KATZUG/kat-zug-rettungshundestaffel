@@ -1,0 +1,39 @@
+---
+- id: blogTitle
+  translation: Aktuelle Blogeinträge
+- id: readMore
+  translation: mehr
+- id: viewAllPost
+  translation: Alle Einträge lesen
+- id: share
+  translation: Teilen
+- id: aboutAuthor
+  translation: Über den Autor
+- id: aboutStaffelmitglied
+  translation: Kat-Zug Rettungsstaffel
+- id: staffelList
+  translation: Unsere Staffelmitglieder  
+- id: authorsPosts
+  translation: Blogeinträge des Staffelmitglieds
+- id: all
+  translation: Alle
+- id: about
+  translation: Über uns
+- id: services
+  translation: Dienstleistungen
+- id: portfolio
+  translation: Portfolio
+- id: team
+  translation: Staffelmitglieder
+- id: pricing
+  translation: Preise
+- id: blog
+  translation: Blogs der Rettungsstaffel 
+- id: contact
+  translation: Kontakt
+- id: themefisher
+  translation: Themefisher
+- id: category
+  translation: Kategorie
+- id: mitgliederbereich
+  translation: Mitgliederbereich 
