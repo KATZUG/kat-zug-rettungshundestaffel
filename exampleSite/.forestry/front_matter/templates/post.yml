@@ -27,5 +27,21 @@ fields:
   config: {}
   label: Gallery
   description: Mindestformat 1200x800px, Hoch- und Querformat zulässig
+- name: categories
+  type: select
+  default: Veranstaltungen
+  config:
+    required: true
+    options:
+    - Moltez wird Rettungshund!
+    - Blog des Kommandanten
+    - Veranstaltungen
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: categories
+  description: Blog-Kategorie
 pages:
 - exampleSite/content/german/blog/zum-gluck-bin-ich-nicht-schwer.md
