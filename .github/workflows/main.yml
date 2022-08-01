@@ -32,4 +32,3 @@ jobs:
         username: katzug-rettu
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./exampleSite/public/
-        git-ftp-args: --insecure --all
