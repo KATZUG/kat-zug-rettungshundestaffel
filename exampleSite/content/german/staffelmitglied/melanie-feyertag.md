@@ -1,12 +1,10 @@
 ---
+draft: true
 title: Melanie Feyertag, Ausbildungshelferin
 name: Melanie Feyertag
 sort_name: 99-feyertag melanie
 designation: Ausbildungshelferin
-image_webp_h : images/staffelmitglied/symbol-human.webp
-image_h : images/staffelmitglied/symbol-human.jpg
-image_webp_d : images/staffelmitglied/symbol-human.webp
-image_d : images/staffelmitglied/symbol-human.jpg
+image_h : images/symbol-human.jpg
 ---
 ## Melanie Feyertag
 1991 geboren, Beziehung, Verwaltungsangestellte

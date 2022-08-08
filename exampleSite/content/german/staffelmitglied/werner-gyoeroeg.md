@@ -1,13 +1,11 @@
 ---
+draft: false
 title: Werner Györög, JHF mit Sally
 name: Werner Györög
 sort_name: 99-gyoeroeg werner
 designation: Junghundeführer
-image_webp_h: images/staffelmitglied/werner-gyoeroeg-human.webp
-image_h: images/staffelmitglied/werner-gyoeroeg-human.jpg
-image_webp_d: images/staffelmitglied/werner-gyoeroeg-dog.webp
-image_d: images/staffelmitglied/werner-gyoeroeg-dog.jpg
-
+image_h: images/werner-gyoeroeg-human.jpg
+image_d: images/werner-gyoeroeg-dog.jpg
 ---
 ## Werner Györög
 1952 geboren, Pension

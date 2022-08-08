@@ -1,12 +1,11 @@
 ---
+draft: false
 title: Dominik Sykora, JHF mit Suky
 name: Dominik Sykora
 sort_name: 99-sykora dominik
 designation: Junghundeführer
-image_webp_h : images/staffelmitglied/symbol-human.webp
-image_h : images/staffelmitglied/symbol-human.jpg
-image_webp_d : images/staffelmitglied/symbol-dog.webp
-image_d : images/staffelmitglied/symbol-dog.jpg
+image_h : images/symbol-human.jpg
+image_d : images/symbol-dog.jpg
 ---
 ## Dominik Sykora
 1996 geboren, Vertriebsleiter Digitalisierung

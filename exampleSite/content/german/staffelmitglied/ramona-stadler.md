@@ -1,10 +1,10 @@
 ---
+draft: true
 title: Ramona Stadler, Ausbildungshelferin
 sort_name: 99-stadler ramona
 name: Ramona Stadler
 designation: Ausbildungshelferin
-image_webp_h : images/staffelmitglied/symbol-human.webp
-image_h : images/staffelmitglied/symbol-human.jpg
+image_h : images/symbol-human.jpg
 ---
 ## Ramona Stadler
 1979 geboren, Einzelhandelkauffrau Trafik

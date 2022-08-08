@@ -1,13 +1,11 @@
 ---
+draft: false
 title: Bernhard Hager, JHF mit Taarna
 name: Bernhard Hager
 sort_name: 99-hager bernhard
 designation: Junghundeführer
-image_webp_h: images/staffelmitglied/bernhard-hager-human.webp
-image_h: images/staffelmitglied/bernhard-hager-human.jpg
-image_webp_d: images/staffelmitglied/bernhard-hager-dog.webp
-image_d: images/staffelmitglied/bernhard-hager-dog.jpg
-
+image_h: images/bernhard-hager-human.jpg
+image_d: images/bernhard-hager-dog.jpg
 ---
 ## Bernhard Hager
 

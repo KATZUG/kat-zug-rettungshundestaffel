@@ -1,10 +1,10 @@
 ---
+draft: false
 title: Stefanie Kladler, Ausbildungshelferin
 sort_name: 99-kladler stefanie
 name: Stefanie Kladler
 designation: Ausbildungshelferin
-image_webp_h : images/staffelmitglied/stefanie-kladler-human.webp
-image_h : images/staffelmitglied/stefanie-kladler-human.jpg
+image_h : images/stefanie-kladler-human.jpg
 ---
 ## Stefanie Kladler
 2002 geboren, Lehre als Rechnungswesenassistentin

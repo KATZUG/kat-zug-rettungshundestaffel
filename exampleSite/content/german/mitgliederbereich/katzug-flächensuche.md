@@ -1,6 +1,6 @@
 ---
 title: Flächensuche
-file: uploads/rhflaech.pdf
+file: rhflaech.pdf
 weight: 12
 download-only: true
 internals: KATZUG Rettungshundestaffel - Ordner

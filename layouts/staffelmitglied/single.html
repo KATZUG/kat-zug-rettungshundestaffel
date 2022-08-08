@@ -16,10 +16,14 @@
 						<div class="row">
 
 						{{ if .Params.image_h }}
-						<img class="rounded-circle img-fluid lozad center-cropped" data-src="{{.Params.image_h | relURL }}">
+						{{ $pos_h := resources.Get .Params.image_h }}
+						{{ $pos_h := $pos_h.Fill "500x583" }}
+						<img class="rounded-circle img-fluid lozad center-cropped" data-src="{{ $pos_h.RelPermalink }}">
 						{{ end }}
 						{{ if .Params.image_d }}
-						<img class="rounded-circle img-fluid lozad center-cropped" data-src="{{.Params.image_d | relURL }}">
+						{{ $pos_d := resources.Get .Params.image_d }}
+						{{ $pos_d := $pos_d.Fill "500x583" }}
+						<img class="rounded-circle img-fluid lozad center-cropped" data-src="{{ $pos_d.RelPermalink }}">
 						{{ end }}
 
 						</div>

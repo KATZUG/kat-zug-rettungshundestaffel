@@ -2,12 +2,20 @@
     <div class="team-member">
       <div class="member-photo">
         {{"<!-- member photo -->" | safeHTML}}
+
+        {{ $pos_h := resources.Get .Params.image_h }}
+        {{ $pos_h := $pos_h.Fill "500x583" }}
+        {{ $poswep_h := $pos_h.Fill "500x583 webp" }}
+
         {{ if .Params.image_d }}
-        <img class="img-fluid bottom" src="{{ .Params.image_webp_d | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image_d | absURL }}'">
+        {{ $pos_d := resources.Get .Params.image_d }}
+        {{ $pos_d := $pos_d.Fill "500x583" }}
+        {{ $poswep_d := $pos_d.Fill "500x583 webp" }}
+        <img class="img-fluid bottom" src="{{ $poswep_d.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $pos_d.RelPermalink }}'">
         {{ else }}
-        <img class="img-fluid bottom" src="{{ .Params.image_webp_h | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image_h | absURL }}'">
+        <img class="img-fluid bottom" src="{{ $poswep_h.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $pos_h.RelPermalink }}'">
         {{ end }}
-        <img class="img-fluid top" src="{{ .Params.image_webp_h | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image_h | absURL }}'">
+        <img class="img-fluid top" src="{{ $poswep_h.RelPermalink }}" onerror="this.onerror=null;this.src='{{ $pos_h.RelPermalink }}'">
         
         {{"<!-- member social profile -->" | safeHTML}}
         <div class="mask">    

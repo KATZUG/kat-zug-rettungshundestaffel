@@ -1,11 +1,10 @@
 ---
+draft: false
 title: Judith Spiegl, Ausbildungshelferin
 name: Judith Spiegl
 sort_name: 99-spiegl judith
 designation: Ausbildungshelferin
-image_webp_h: images/staffelmitglied/judith-spiegl-human.webp
-image_h: images/staffelmitglied/judith-spiegl-human.jpg
-
+image_h: images/judith-spiegl-human.jpg
 ---
 ## Judith Spiegl
 

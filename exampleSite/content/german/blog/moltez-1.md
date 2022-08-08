@@ -1,7 +1,7 @@
 ---
 title: "Ein neuer Blog!"
 date: 2022-04-09T00:00:00+00:00
-image: "images/blog/moltez-1.jpg"
+image: "images/moltez-1.jpg"
 author: Paul Legerer
 description : "Einstiegseintrag für den Blog 'Moltez wird Rettungshund!'"
 categories: "Moltez wird Rettungshund!"

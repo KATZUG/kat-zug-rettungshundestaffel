@@ -1,13 +1,11 @@
 ---
+draft: false
 title: Karin Sheikh, JHF mit Lion
 name: Karin Sheikh
 sort_name: 99-sheikh karin
 designation: Junghundeführerin
-image_webp_h: images/staffelmitglied/karin-sheikh-human.webp
-image_h: images/staffelmitglied/karin-sheikh-human.jpg
-image_webp_d: images/staffelmitglied/karin-sheikh-dog.webp
-image_d: images/staffelmitglied/karin-sheikh-dog.jpg
-
+image_h: images/karin-sheikh-human.jpg
+image_d: images/karin-sheikh-dog.jpg
 ---
 ## Karin Sheikh
 
