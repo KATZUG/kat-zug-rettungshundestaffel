@@ -1,6 +1,6 @@
 ---
 title: Terminkalender 2022
-file: mitgliederbereich/Terminplan-2022.pdf
+uploadfile: mitgliederbereich/Terminplan-2022.pdf
 weight: 1
 download-only: true
 internals: Interne Organisation

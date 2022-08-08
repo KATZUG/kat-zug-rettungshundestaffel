@@ -1,6 +1,6 @@
 ---
 title: Funkalphabet
-file: mitgliederbereich/funkalpha.pdf
+uploadfile: mitgliederbereich/funkalpha.pdf
 weight: 13
 download-only: true
 internals: KATZUG Rettungshundestaffel - Ordner
