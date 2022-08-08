@@ -1,6 +1,6 @@
 ---
 title: Alarmierungsplan
-file: mitgliederbereich/Alarmierungsplan.pdf
+uploadfile: mitgliederbereich/Alarmierungsplan.pdf
 weight: 1
 download-only: true
 internals: Interne Organisation

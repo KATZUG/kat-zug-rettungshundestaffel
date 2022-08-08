@@ -1,3 +1,4 @@
+staticDir = ['static', 'assets']
 DefaultContentLanguage = "de"
 baseURL = "https://www.katzug-rettungshundestaffel.at/hugo/"
 disableLanguages = ["en"]

@@ -1,6 +1,6 @@
 ---
 title: Rucksack
-file: rhrucksack.pdf
+file: mitgliederbereich/rhrucksack.pdf
 weight: 18
 download-only: true
 internals: KATZUG Rettungshundestaffel - Ordner

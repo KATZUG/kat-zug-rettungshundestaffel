@@ -1,6 +1,6 @@
 ---
 title: Terminkalender 2021
-file: Terminplan-2021-Staffel-A3.pdf
+file: mitgliederbereich/Terminplan-2021-Staffel-A3.pdf
 weight: 1
 download-only: true
 internals: Interne Organisation

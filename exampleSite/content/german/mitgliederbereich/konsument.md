@@ -1,6 +1,6 @@
 ---
 title: Konsument
-file: Mappe1.xlsx
+file: mitgliederbereich/Mappe1.xlsx
 weight: 100
 download-only: true
 internals: Sonstige Infos

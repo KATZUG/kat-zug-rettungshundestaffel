@@ -1,6 +1,6 @@
 ---
 title: Aufnahme- und Ausbildungsbedingungen
-file: rhtruemm.pdf
+file: mitgliederbereich/rhtruemm.pdf
 weight: 21
 download-only: true
 internals: KATZUG Rettungshundestaffel - Ordner
