@@ -5,27 +5,27 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
-- type: directory
-  path: exampleSite/content/german/blog
-  label: Post (de)
-  create: documents
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: heading
-  label: Staffel
+  label: Inhalte
 - type: directory
   path: exampleSite/content/german/staffelmitglied
-  label: Staffelmitglied (de)
+  label: Staffelmitglied
   create: documents
   match: "**/*"
   new_doc_ext: md
-  templates:
-  - staffelmitglied
+- type: directory
+  path: exampleSite/content/german/blog
+  label: Blogeinträge
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+- type: directory
+  path: exampleSite/content/german/mitgliederbereich/**/*
+  label: Mitgliederbereich
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: heading
-  label: Data
+  label: Configuration
 - type: directory
   path: exampleSite/data
   label: Homepage
@@ -33,14 +33,12 @@ sections:
   match: "**/*"
 - type: directory
   path: exampleSite/i18n
-  label: i18n
+  label: Übersetzungen
   create: documents
   match: "**/*"
-- type: heading
-  label: Configuration
 - type: directory
   path: exampleSite
-  label: Configuration
+  label: Konfiguration
   create: all
   match: "*.toml"
   new_doc_ext: toml
