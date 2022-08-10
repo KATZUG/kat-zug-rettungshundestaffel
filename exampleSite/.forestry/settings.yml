@@ -19,7 +19,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: directory
-  path: exampleSite/content/german/mitgliederbereich/**/*
+  path: exampleSite/content/german/mitgliederbereich
   label: Mitgliederbereich
   create: documents
   match: "**/*"
