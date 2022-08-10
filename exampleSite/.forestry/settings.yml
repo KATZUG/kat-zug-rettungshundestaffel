@@ -23,7 +23,7 @@ sections:
   label: Mitgliederbereich
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: heading
   label: Configuration
 - type: directory
