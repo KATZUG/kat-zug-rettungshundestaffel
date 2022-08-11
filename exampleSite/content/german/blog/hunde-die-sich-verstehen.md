@@ -1,7 +1,7 @@
 ---
 author : "Paul Legerer"
 categories : "Moltez wird Rettungshund!"
-date : 2022-08-10T22:00:00Z
+date : 2022-08-10T00:00:00.000+00:00
 description : "Moltez und Sally gemeinsam im Auto"
 title : "Hunde, die sich verstehen!"
 
