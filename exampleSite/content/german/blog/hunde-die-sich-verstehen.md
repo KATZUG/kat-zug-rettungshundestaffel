@@ -4,7 +4,7 @@ categories = "Moltez wird Rettungshund!"
 date = 2022-08-10T22:00:00Z
 description = "Moltez und Sally gemeinsam im Auto"
 gallery = []
-image = "exampleSite/assets/images/img-20220807-wa0004.jpg"
+image = ""
 title = "Hunde, die sich verstehen!"
 
 +++
