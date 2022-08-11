@@ -1,0 +1,25 @@
+---
+label: Staffelmitglied
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: name
+  label: name
+- type: text
+  name: sort_name
+  label: sort_name
+- type: text
+  name: designation
+  label: designation
+- type: file
+  name: image_h
+  label: image_h
+- type: file
+  name: image_d
+  label: image_d
+- type: image_gallery
+  name: gallery
+  label: gallery
