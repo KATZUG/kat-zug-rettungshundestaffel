@@ -4,22 +4,32 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Vollständige Überschrift
+  description: 'Vorname Nachname, Dienstgrad mit Hundename. Z.B.: Max Mustermann,
+    JHF mit Musterhund'
 - type: text
   name: name
-  label: name
+  label: Name
+  description: 'Vorname Nachname. Z.B.: Max Mustermann'
 - type: text
   name: sort_name
-  label: sort_name
+  label: Name für Reihenfolge
+  description: 'Position (2-stellig)-Nachname Vorname. Z.B.: 99-Mustermann Max. Die
+    ersten 2 Ziffern geben die Reihenfolge an (''00'' für Kommandant, ''01'' für KdtStv,
+    etc., default ''99''), danach Reihung nach Nachname, Vorname'
 - type: text
   name: designation
-  label: designation
+  label: Dienstgrad
+  description: 'Dienstgrad, z.B.: Junghundführerin'
 - type: file
   name: image_h
-  label: image_h
+  label: Foto Staffelmitglied
+  description: Optimalgröße 500x587
 - type: file
   name: image_d
-  label: image_d
+  description: Optimalgröße 500x587
+  label: Foto Rettungshund
 - type: image_gallery
   name: gallery
-  label: gallery
+  label: 'Optional: Galerie mit weiteren Fotos'
+  description: Optimalgröße 1200x800
