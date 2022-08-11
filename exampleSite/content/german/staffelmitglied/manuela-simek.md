@@ -1,11 +1,11 @@
 ---
-draft: true
 title: Manuela Simek, RHF mit Murphy
 name: Manuela Simek
 sort_name: 99-simek manuela
 designation: Rettungshundeführerin
-image_h : images/symbol-human.jpg
-image_d : images/symbol-dog.jpg
+image_h: images/symbol-human.jpg
+image_d: images/symbol-dog.jpg
+
 ---
 ## Manuela Simek
 1980 geboren, ledig, Pflegehelferin Hauskrankenpflege
