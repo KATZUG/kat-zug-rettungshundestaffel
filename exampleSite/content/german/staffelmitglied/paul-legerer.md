@@ -6,6 +6,8 @@ sort_name: 99-legerer paul
 designation: Junghundeführer
 image_h: images/paul-legerer-human.jpg
 image_d: images/paul-legerer-dog.jpg
+gallery:
+- "/images/img-20220731-wa0018.jpg"
 ---
 ## Paul Legerer
 1973 geboren, IT-Berater
