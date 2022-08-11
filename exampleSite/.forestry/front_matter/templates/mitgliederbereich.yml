@@ -1,0 +1,19 @@
+---
+label: Mitgliederbereich
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: uploadfile
+  label: uploadfile
+- type: number
+  name: weight
+  label: weight
+- type: boolean
+  name: download-only
+  label: download-only
+- type: text
+  name: internals
+  label: internals
