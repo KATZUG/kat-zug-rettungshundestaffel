@@ -12,18 +12,24 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - staffelmitglied
 - type: directory
   path: exampleSite/content/german/blog
   label: Blogeinträge
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - blogeintrag
 - type: directory
   path: exampleSite/content/german/mitgliederbereich
   label: Mitgliederbereich
   create: documents
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - mitgliederbereich
 - type: heading
   label: Configuration
 - type: directory
