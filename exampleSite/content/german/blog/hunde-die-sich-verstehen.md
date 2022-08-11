@@ -4,7 +4,7 @@ categories: Moltez wird Rettungshund!
 date: 2022-08-10T00:00:00.000+00:00
 description: Moltez und Sally gemeinsam im Auto
 title: Hunde, die sich verstehen!
-image: exampleSite/assets/images/img-20220807-wa0004.jpg
+image: images/img-20220807-wa0004.jpg
 gallery: []
 
 ---
