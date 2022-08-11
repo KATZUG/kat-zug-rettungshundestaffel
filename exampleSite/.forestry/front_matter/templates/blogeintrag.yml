@@ -4,22 +4,38 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Überschrift
 - type: datetime
   name: date
-  label: date
+  label: Datum
+  description: Datum der Veröffentlichung
 - type: file
   name: image
-  label: image
+  label: Foto im Kopfbereich
+  description: Optimale Größe 516x334
 - type: text
   name: author
-  label: author
+  label: Autor
+  description: Vorname Nachname, so wie auf der  Staffelmitgliedseite
 - type: text
   name: description
-  label: description
-- type: text
-  name: categories
-  label: categories
+  label: Beschreibung
 - type: image_gallery
   name: gallery
-  label: gallery
+  label: 'Optional: Fotogalerie'
+  description: Optimale Größe 1200x800
+- name: categories
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Veranstaltungen
+    - Blog des Kommandanten
+    - Moltez wird Rettungshund!
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Blogkategorie
