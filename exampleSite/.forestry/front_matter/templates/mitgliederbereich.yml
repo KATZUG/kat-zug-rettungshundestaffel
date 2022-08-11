@@ -4,16 +4,33 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Überschrift
 - type: file
   name: uploadfile
-  label: uploadfile
+  label: Link zur Datei
+  description: Wichtig! Files müssen immer in den Ordner "mitgliederbereich" hochgeladen
+    werden!
 - type: number
   name: weight
-  label: weight
+  label: Reihenfolge
+  description: Gibt an, an welcher Stelle in der Übersicht der Block stehen soll
 - type: boolean
   name: download-only
   label: download-only
-- type: text
-  name: internals
-  label: internals
+  default: true
+  description: Technisches Feld. Bitte immer auf "True" gesetzt lassen
+- name: internals
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Interne Organisation
+    - KATZUG Rettungshundestaffel - Ordner
+    - Sonstige Infos
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Interne Kategorie
