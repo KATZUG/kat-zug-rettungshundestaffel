@@ -1,9 +1,9 @@
 ---
-author = "Paul Legerer"
-categories = "Moltez wird Rettungshund!"
-date = 2022-08-10T22:00:00Z
-description = "Moltez und Sally gemeinsam im Auto"
-title = "Hunde, die sich verstehen!"
+author : "Paul Legerer"
+categories : "Moltez wird Rettungshund!"
+date : 2022-08-10T22:00:00Z
+description : "Moltez und Sally gemeinsam im Auto"
+title : "Hunde, die sich verstehen!"
 
 ---
 ## Weiß & Braun
