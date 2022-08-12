@@ -10,20 +10,10 @@ summary: 'Unsere nächste Veranstanltung: Tag der offenen Tür - Melker Pioniere
   11 Juni 2022'
 
 ---
-## Unsere nächste Veranstaltung:
+## Anstehende Veranstaltungen
 
-27\. August 2022 - Schloßfest Kottingbrunn
-
-11. September 2022 - Furth an der Triesting
-
-
-18. September 2022 - Roter Nasenlauf Bad Vöslau
-
-
-24. September 2022 - Badener Vereinstag
-
-
-15. Oktober 2022 - Eröffnung Hundezone Brunn am Gebirge
+27. August 2022 - Kottingbrunn Schloßfest 
+    11. September 2022 - Furth an der Triesting
 
 ### vergangene Veranstaltungen
 
