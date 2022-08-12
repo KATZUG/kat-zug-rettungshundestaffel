@@ -40,11 +40,18 @@ fields:
       path: 
   label: Blogkategorie
 - name: summary
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Kurztext
-  description: Kurztext, wenn er vom Langtext abweichen soll
+  description: Kurztext, wenn er vom Haupttext abweicht
+  showOnly:
+    field: categories
+    value: Veranstaltungen
 pages:
 - exampleSite/content/german/blog/hunde-die-sich-verstehen.md
 - exampleSite/content/german/blog/melker-pioniere.md
