@@ -39,6 +39,12 @@ fields:
       file: 
       path: 
   label: Blogkategorie
+- name: summary
+  type: text
+  config:
+    required: false
+  label: Kurztext
+  description: Kurztext, wenn er vom Langtext abweichen soll
 pages:
 - exampleSite/content/german/blog/hunde-die-sich-verstehen.md
 - exampleSite/content/german/blog/melker-pioniere.md
