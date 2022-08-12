@@ -17,10 +17,10 @@ summary: 'Unsere nächste Veranstanltung: Tag der offenen Tür - Melker Pioniere
 
 ### vergangene Veranstaltungen
 
-    1. August 2022 - Ferielspiel Kottingbrunn
-    2. Juli 2022 - Blaulichttag Weissenbach
-    3. Juni 2022 - Blaulichttag Altenmarkt
+    6. August 2022 - Ferielspiel Kottingbrunn
+    16. Juli 2022 - Blaulichttag Weissenbach
+    18. Juni 2022 - Blaulichttag Altenmarkt
     11. Juni 2022 - Tag der offenen Tür "Melker Pioniere"
-    5. Juni 2022 - Fahrzeugweihe Berg- und Naturwacht und KATZUG-Rettungshundestaffel
-    6. Mai 2022 - Gesundheitstag Laxenburg
+    4. Juni 2022 - Fahrzeugweihe Berg- und Naturwacht und KATZUG-Rettungshundestaffel
+    14. Mai 2022 - Gesundheitstag Laxenburg
     7. Mai 2022 - Gesundheitstag Guntramsdorf
