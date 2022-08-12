@@ -26,6 +26,7 @@ gallery:
 - "/images/2022-06-04-Fahrzeugweihe-18.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-19.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-20.jpg"
+draft: true
 
 ---
 ## Autotaufe am Stützpunkt in Baden
@@ -34,4 +35,4 @@ Heute wurden im Rahmen der 50-Jahrfeier der Berg- und Naturwacht Baden auch das 
 
 Was wenige wissen: Der Katzug ist historisch aus der Berg- und Naturwacht hervorgegangen, und wir teilen uns immer noch den Stützpunkt in der Waltersdorferstraße.
 
-Die zahlreichen Festredner, darunter unsere Bezirkshauptfrau Verena Sonneitner, haben dabei auch der Hoffnung Ausdruck gegeben, dass Katzug und Natur- und Bergwacht wieder intensiver zusammenarbeiten. Wir freuen uns schon darauf!
+Die zahlreichen Festredner, allen voran die Landesrätin Ulrike Königsberger-Ludwigm und die Bezirkshauptfrau Verena Sonneitner, haben dabei auch der Hoffnung Ausdruck gegeben, dass Katzug und Natur- und Bergwacht wieder intensiver zusammenarbeiten. Wir freuen uns schon darauf!
