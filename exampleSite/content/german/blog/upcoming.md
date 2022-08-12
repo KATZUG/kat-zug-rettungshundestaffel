@@ -6,7 +6,8 @@ author: Hartmut Eszterwitsch
 description: Fixer Post mit den zukünftigen Veranstaltungen
 categories: Veranstaltungen
 weight: 100
-summary: Hier geht es zu den Infos zu den nächsten Veranstaltungen, bei denen die Rettungsstaffel anwesend sein wird!
+summary: 'Unsere nächste Veranstanltung: Tag der offenen Tür - Melker Pioniere am
+  11 Juni 2022'
 
 ---
 ## Anstehende Veranstaltungen
