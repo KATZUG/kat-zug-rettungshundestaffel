@@ -2,16 +2,15 @@
 author = "Paul Legerer"
 categories = "Moltez wird Rettungshund!"
 date = 2022-07-30T22:00:00Z
-description = "Moltez wird getragen"
-draft = true
-image = "/images/img-20220731-wa0018.jpg"
+description = "Moltez bei der Höhlensuche"
+image = "images/img-20220814-wa0012-2.jpg"
 title = "In der dunklen Höhle"
 
 +++
-## Ab in die Tragetasche!
+## Ab in die dunkle Höhle!
 
-Das Training heute hatte wieder eine ganz besondere Herausforderung für uns: Nach der Mittagspause hat unser Kommandant Hundetragegurte hervorgezaubert, und die Hunde wurden getragen!
+Heute hielt das Training wieder eine große Herausforderung bereit: Die Suche in der großen Höhle! Zunächst durften wir, die noch nie da waren, die Höhle begehen, um uns mit den Gegebenheiten vertraut zu machen. Danach wurden die Opfer ausgelegt, und los ging's!
 
-Moltez war nicht sehr begeistert, hat aber das Tragen recht entspannt erduldet. Nur das Anlegen des Gurtes hat ihm gar nicht gefallen. Er hat sogar nach Werners Hand geschnappt, der uns bei der Sache behilflich sein wollte! Nach einer kurzen Pause, viel Zureden und Leckerlis hat es dann doch geklappt.
+Die Suche war anspruchsvoll, aber Moltez schlug sich tapfer. Vielleicht hat auch geholfen, dass das letzte Opfer gleichzeitig das Frauchen war :-)
 
-Ich hoffe nur, Werners Hand ist wieder heil!
+ 
