@@ -53,5 +53,4 @@ fields:
     field: categories
     value: Veranstaltungen
 pages:
-- exampleSite/content/german/blog/hunde-die-sich-verstehen.md
 - exampleSite/content/german/blog/melker-pioniere.md
