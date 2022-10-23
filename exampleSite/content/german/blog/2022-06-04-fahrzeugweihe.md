@@ -9,8 +9,6 @@ gallery:
 - "/images/2022-06-04-Fahrzeugweihe-01.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-02.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-03.jpg"
-- "/images/2022-06-04-Fahrzeugweihe-04.jpg"
-- "/images/2022-06-04-Fahrzeugweihe-05.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-06.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-07.jpg"
 - "/images/2022-06-04-Fahrzeugweihe-08.jpg"

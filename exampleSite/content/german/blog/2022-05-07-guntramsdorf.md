@@ -7,7 +7,6 @@ description: Die Staffel beim Bauernmarkt in Guntramsdorf
 categories: Veranstaltungen
 gallery:
 - "/images/2022-05-07-Guntramsdorf-01.jpg"
-- "/images/2022-05-07-Guntramsdorf-02.jpg"
 - "/images/2022-05-07-Guntramsdorf-03.jpg"
 - "/images/2022-05-07-Guntramsdorf-04.jpg"
 - "/images/2022-05-07-Guntramsdorf-05.jpg"
@@ -25,13 +24,11 @@ gallery:
 - "/images/2022-05-07-Guntramsdorf-18.jpg"
 - "/images/2022-05-07-Guntramsdorf-19.jpg"
 - "/images/2022-05-07-Guntramsdorf-20.jpg"
-- "/images/2022-05-07-Guntramsdorf-21.jpg"
 - "/images/2022-05-07-Guntramsdorf-22.jpg"
 - "/images/2022-05-07-Guntramsdorf-23.jpg"
 - "/images/2022-05-07-Guntramsdorf-24.jpg"
 - "/images/2022-05-07-Guntramsdorf-25.jpg"
 - "/images/2022-05-07-Guntramsdorf-26.jpg"
-- "/images/2022-05-07-Guntramsdorf-27.jpg"
 
 ---
 ## Der erste Auftritt 2022!
