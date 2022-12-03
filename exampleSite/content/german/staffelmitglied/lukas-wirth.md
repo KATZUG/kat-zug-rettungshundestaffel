@@ -8,6 +8,7 @@ image_d: images/lukas-wirth-dog.jpg
 
 ---
 ## Lukas Wirth
+
 2000 geboren, KFZ-Techniker
 
 In der Staffel tätig seit Juni 2018
@@ -17,16 +18,15 @@ Die Rettungshundearbeit betreibe ich, weil ich mit meinem Hund gerne und viel ar
 Sonstige Hobbies: Feuerwehr, Sport, Autos
 
 ## UNO
+
 #### Harzer Fuchs - Rüde
+
 Wurfdatum: 05.2017
 
-Prüfungen: BH 
+Prüfungen: BH
 
 Charaktereigenschaften: wild, aufgeweckt, verspielt, interessiert, Testet seine Grenzen immer wieder aufs Neue, sucht gerne , treu, gutherzig, liebt den Kontakt zu Menschen, sehr lernfähig.
 
 ## Ausbildung
-EINSATZFÄHIGKEIT: in Arbeit
 
-wird ausgebildet in: Flächensuche
-
-TRÜMMER – Grundkenntnisse
+EINSATZFÄHIGKEIT: Fläschensuche
