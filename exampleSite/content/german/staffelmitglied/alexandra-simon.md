@@ -1,11 +1,11 @@
 ---
-draft: false
 title: Alexandra Simon, JHF mit Zeus
 name: Alexandra Simon
 sort_name: 99-simon alexandra
 designation: Junghundeführerin
 image_h: images/alexandra-simon-human.jpg
 image_d: images/alexandra-simon-dog.jpg
+
 ---
 ## Alexandra Simon
 
@@ -23,7 +23,7 @@ Sonstige Hobbies sind Natur und Hunde
 
 Wurfdatum: 17.10.2017
 
-Prüfungen: BH, BHG1
+Prüfungen: BH, BHG1, IBGH2
 
 Charaktereigenschaften: gute Nasenarbeit, starker Bezug auf den Hundeführer. Im Hundeverhalten zu anderen Hunden: "Lass mich in Ruhe, dann lass' ich dich auch in Ruhe!", kein Doninanzverhalten, er will seine Ruhe
 
