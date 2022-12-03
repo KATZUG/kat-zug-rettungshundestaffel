@@ -1,11 +1,11 @@
 ---
-draft: false
 title: Lukas Wirth, JHF mit Uno
 name: Lukas Wirth
 sort_name: 99-wirth lukas
-designation: Junghundeführer
-image_h : images/lukas-wirth-human.jpg
-image_d : images/lukas-wirth-dog.jpg
+designation: Hundeführer
+image_h: images/lukas-wirth-human.jpg
+image_d: images/lukas-wirth-dog.jpg
+
 ---
 ## Lukas Wirth
 2000 geboren, KFZ-Techniker
